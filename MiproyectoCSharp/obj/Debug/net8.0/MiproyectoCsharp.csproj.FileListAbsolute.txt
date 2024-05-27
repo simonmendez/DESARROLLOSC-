@@ -1,0 +1,14 @@
+D:\DESARROLLOSC#\MiproyectoCsharp\bin\Debug\net8.0\MiproyectoCsharp.exe
+D:\DESARROLLOSC#\MiproyectoCsharp\bin\Debug\net8.0\MiproyectoCsharp.deps.json
+D:\DESARROLLOSC#\MiproyectoCsharp\bin\Debug\net8.0\MiproyectoCsharp.runtimeconfig.json
+D:\DESARROLLOSC#\MiproyectoCsharp\bin\Debug\net8.0\MiproyectoCsharp.dll
+D:\DESARROLLOSC#\MiproyectoCsharp\bin\Debug\net8.0\MiproyectoCsharp.pdb
+D:\DESARROLLOSC#\MiproyectoCsharp\obj\Debug\net8.0\MiproyectoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLOSC#\MiproyectoCsharp\obj\Debug\net8.0\MiproyectoCsharp.AssemblyInfoInputs.cache
+D:\DESARROLLOSC#\MiproyectoCsharp\obj\Debug\net8.0\MiproyectoCsharp.AssemblyInfo.cs
+D:\DESARROLLOSC#\MiproyectoCsharp\obj\Debug\net8.0\MiproyectoCsharp.csproj.CoreCompileInputs.cache
+D:\DESARROLLOSC#\MiproyectoCsharp\obj\Debug\net8.0\MiproyectoCsharp.dll
+D:\DESARROLLOSC#\MiproyectoCsharp\obj\Debug\net8.0\refint\MiproyectoCsharp.dll
+D:\DESARROLLOSC#\MiproyectoCsharp\obj\Debug\net8.0\MiproyectoCsharp.pdb
+D:\DESARROLLOSC#\MiproyectoCsharp\obj\Debug\net8.0\MiproyectoCsharp.genruntimeconfig.cache
+D:\DESARROLLOSC#\MiproyectoCsharp\obj\Debug\net8.0\ref\MiproyectoCsharp.dll

@@ -1,0 +1,14 @@
+D:\DESARROLLOSC#\MiProyectC#_manual\bin\Debug\net8.0\MiProyectC#_manual.exe
+D:\DESARROLLOSC#\MiProyectC#_manual\bin\Debug\net8.0\MiProyectC#_manual.deps.json
+D:\DESARROLLOSC#\MiProyectC#_manual\bin\Debug\net8.0\MiProyectC#_manual.runtimeconfig.json
+D:\DESARROLLOSC#\MiProyectC#_manual\bin\Debug\net8.0\MiProyectC#_manual.dll
+D:\DESARROLLOSC#\MiProyectC#_manual\bin\Debug\net8.0\MiProyectC#_manual.pdb
+D:\DESARROLLOSC#\MiProyectC#_manual\obj\Debug\net8.0\MiProyectC#_manual.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLOSC#\MiProyectC#_manual\obj\Debug\net8.0\MiProyectC#_manual.AssemblyInfoInputs.cache
+D:\DESARROLLOSC#\MiProyectC#_manual\obj\Debug\net8.0\MiProyectC#_manual.AssemblyInfo.cs
+D:\DESARROLLOSC#\MiProyectC#_manual\obj\Debug\net8.0\MiProyectC#_manual.csproj.CoreCompileInputs.cache
+D:\DESARROLLOSC#\MiProyectC#_manual\obj\Debug\net8.0\MiProyectC#_manual.dll
+D:\DESARROLLOSC#\MiProyectC#_manual\obj\Debug\net8.0\refint\MiProyectC#_manual.dll
+D:\DESARROLLOSC#\MiProyectC#_manual\obj\Debug\net8.0\MiProyectC#_manual.pdb
+D:\DESARROLLOSC#\MiProyectC#_manual\obj\Debug\net8.0\MiProyectC#_manual.genruntimeconfig.cache
+D:\DESARROLLOSC#\MiProyectC#_manual\obj\Debug\net8.0\ref\MiProyectC#_manual.dll

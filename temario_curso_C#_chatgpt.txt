@@ -1,0 +1,111 @@
+Quiero aprender C#. ¿Puedes aplicar el principio de Pareto, que identifica el 20% del tema que producirá el 80% de los resultados deseados, para crear un plan de aprendizaje enfocado para mí?
+ChatGPT
+ChatGPT
+Memoria actualizada
+¡Claro que sí! Aplicar el principio de Pareto significa concentrarse en los conceptos más importantes que te darán el mayor beneficio en tu aprendizaje de C#. Aquí tienes un plan de aprendizaje enfocado en el 20% del contenido que te dará el 80% de los resultados:
+
+Semana 1: Fundamentos de C#
+Instalación y configuración
+
+Instalar Visual Studio Code.
+Configurar el entorno de desarrollo con la extensión de C#.
+Sintaxis básica y estructura del programa
+
+Escribir un programa simple ("Hello, World!").
+Entender la estructura básica de un programa en C#.
+Variables y tipos de datos
+
+Declaración e inicialización de variables.
+Tipos de datos básicos (int, float, double, char, string, bool).
+
+dotnet new console
+dotnet run
+
+dotnet clean
+dotnet build
+dotnet run
+
+Operadores y expresiones
+
+Operadores aritméticos, de comparación y lógicos.
+Semana 2: Control de flujo y funciones
+Estructuras de control
+
+Condicionales (if, else, switch).
+Bucles (for, while, do-while).
+Funciones y métodos
+
+Definición y llamada a funciones.
+Parámetros y valores de retorno.
+Concepto de sobrecarga de métodos.
+Semana 3: Programación orientada a objetos (POO)
+Clases y objetos
+
+Definición de clases y creación de objetos.
+Propiedades y métodos.
+Encapsulamiento
+
+Modificadores de acceso (public, private, protected).
+Uso de propiedades para controlar el acceso a los datos.
+Herencia
+
+Concepto de herencia y cómo usarla.
+Clases base y derivadas.
+Semana 4: Más conceptos de POO y colecciones
+Polimorfismo
+
+Métodos virtuales y sobrescritura.
+Interfaces y su uso.
+Colecciones
+
+Arrays y listas.
+Uso de colecciones genéricas (List<T>, Dictionary<K,V>).
+Manejo de excepciones
+
+Try-catch-finally.
+Creación de excepciones personalizadas.
+Semana 5: Práctica y proyectos pequeños
+Proyecto simple
+
+Crear una pequeña aplicación de consola que utilice los conceptos aprendidos.
+Ejemplos: Calculadora, gestor de tareas, etc.
+Revisión y refuerzo
+
+Repasar los temas más desafiantes.
+Resolver ejercicios adicionales.
+Recursos recomendados:
+Documentación oficial de C#: Microsoft Docs
+Tutoriales en video: Canales de YouTube como Brackeys (aunque enfocado en juegos, tiene buenos conceptos de C#) y FreeCodeCamp
+Libros: "C# in Depth" de Jon Skeet es una excelente referencia.
+Consejos adicionales:
+Práctica diaria: Intenta escribir código todos los días, aunque sea solo un poco.
+Participa en comunidades: Foros como Stack Overflow y subreddits de programación pueden ser muy útiles.
+Proyectos personales: Siempre trata de aplicar lo que aprendes en proyectos pequeños que te interesen.
+Con este enfoque, te concentrarás en los aspectos más esenciales y productivos de C#, permitiéndote progresar rápidamente
+y construir una base sólida. ¡Buena suerte en tu aprendizaje!
+
+udemy
+formacionpraxedes@gmail.com
+Formacion2023
+https://github.com/gavilanch/Programando-En-Csharp-Udemy
+
+
+Programando en C# 10 - De Principiante a Profesional 
+ 
+Diseño y Programación Orientada a Objetos en C#
+ 
+Ejemplos de LINQ con C# 10
+ 
+Introducción a la Concurrencia en C# - Async y Paralelismo - 18 visto
+ 
+Introducción a Entity Framework Core 6 - De Verdad - 66 visto
+ 
+Patrones de diseño en C# 
+ 
+Aplicados en ASP .Net - 23 visto
+ 
+Construyendo Web APIs RESTful con ASP.NET Core 6
+Programando en Blazor - ASP.NET Core 7 de Jose Rendon
+Jose Rendon
+Programando en Blazor - ASP.NET Core 7
+tiene menú contextual
